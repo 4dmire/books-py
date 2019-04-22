@@ -1,0 +1,536 @@
+[
+  {
+    "id": 1,
+    "title": "Tender is the Night",
+    "author": "F. Scott Fitzgerald",
+    "finished": {
+      "year": 2018,
+      "month": 1
+    },
+    "rating": 4,
+    "pages": 352,
+    "published": 1934,
+    "type": "novel",
+    "synopsis": "people fall in love and stuff",
+    "opinion": "i liked it yay",
+    "tags": ["DESC", "CLASSIC", "CHAR", "LOVE"],
+    "quotes": [
+      "She smiled at him, making sure that the smile gathered up everything inside her and directed it toward him, making him a profound promise of herself for so little, for the beat of a response, the assurance of a complimentary vibration in him.",
+      "'Think how you love me' she whispered. 'I don't ask you to love me always like this, but I ask you to remember. Somewhere inside me there'll always be the person I am tonight."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Zen in the Art of Archery",
+    "author": "Eugen Herrigel",
+    "finished": {
+      "year": 2018,
+      "month": 1
+    },
+    "rating": 4,
+    "pages": 81,
+    "published": 1948,
+    "type": "zen",
+    "synopsis": "person tries to get better at archery gl",
+    "opinion": "omg it was sick i tell my friends to read it",
+    "tags": ["IMPROVE", "HUMAN"],
+    "quotes": [
+      "The only successful way of rendering this disturbance inoperative is to keep on breathing, quietly and unassumingly, to enter into friendly relations with whatever appears on the scene, to accustom oneself to it, to look at it equably and at last grow weary of looking."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Loving Day",
+    "author": "Mat Johnson",
+    "finished": {
+      "year": 2018,
+      "month": 2
+    },
+    "rating": 2,
+    "pages": 304,
+    "published": 2015,
+    "type": "novel",
+    "synopsis": "living mixed in America",
+    "opinion": "meh, cool but muddled and hard to follow",
+    "quotes": [
+      "Later, they'll realize that there was love, and it was real, and that the fact that real love can dissipate so completely is even more devastating."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "A Gentleman in Moscow",
+    "author": "Amor Towles",
+    "finished": {
+      "year": 2018,
+      "month": 2
+    },
+    "rating": 2,
+    "pages": 462,
+    "published": 2016,
+    "type": "novel",
+    "synopsis": "a dude under house arrest in a fancy hotel in 20th century Russia",
+    "opinion": "it was all right. parts kinda boring. a little socially anachronistic/forced.",
+    "tags": ["PLOT", "HUMAN"],
+    "quotes": []
+  },
+  {
+    "id": 5,
+    "title": "The Purity Myth",
+    "author": "Jessica Valenti",
+    "finished": {
+      "year": 2018,
+      "month": 2
+    },
+    "rating": 2,
+    "pages": 272,
+    "published": 2009,
+    "type": "non-fiction",
+    "synopsis": "tackling myths about sexuality",
+    "opinion": "Interesting and helpful info, but the logic on some parts was unconvincing or not very thorough.",
+    "quotes": [
+      "There is no working medical definition for 'virginity.'"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "A Billion Voices",
+    "author": "David Moser",
+    "finished": {
+      "year": 2018,
+      "month": 2
+    },
+    "rating": 3,
+    "pages": 96,
+    "published": 2016,
+    "type": "non-fiction",
+    "synopsis": "history and politics of language in 20th century China",
+    "opinion": "Informational and approachable, definitely recommend, especially if you're interested in China",
+    "tags": ["LEARN", "CLEAN"],
+    "quotes": [
+      "A shared language does not imply a shared vision for society."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Their Eyes Were Watching God",
+    "author": "Zora Neale Hurston",
+    "finished": {
+      "year": 2018,
+      "month": 3
+    },
+    "rating": 5,
+    "pages": 205,
+    "published": 1937,
+    "type": "novel",
+    "synopsis": "love, loss, and female strength",
+    "opinion": "Beautiful and empowering, cool writing styles",
+    "tags": ["DESC", "FEM", "HUMAN"],
+    "quotes": [
+      "She had an inside and an outside now and suddenly she knew how not to mix them.",
+      "Love is lak de sea. It's uh moving thing, but still and all, it takes its shape from the shore it meets, and it's different with every shore."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "finished": {
+      "year": 2018,
+      "month": 3
+    },
+    "rating": 4,
+    "pages": 433,
+    "published": 1803,
+    "type": "novel",
+    "synopsis": "Pip is this kid who grows up and stuff. He learns a lot of things. It's hard.",
+    "opinion": "Great, memorable characters. Thought-provoking. Interesting moral/class issues.",
+    "tags": ["DESC", "CHAR", "CLASSIC"],
+    "quotes": [
+      "Pause you who read this, and think for a moment of the long chain of iron or gold, of thorns or flowers, that would never have bound you, but for the formation of the first link on one memorable day.",
+      "We owed so much to Herbert's ever-cheerful industry and readiness, that I often wondered how I had conceived that old idea of his inaptitude, until I was one day enlightened by the reflection, that perhaps the inaptitude had never been in him at all, but had been in me."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "The Three-Body Problem",
+    "author": "Liu Cixin",
+    "finished": {
+      "year": 2018,
+      "month": 3
+    },
+    "rating": 2,
+    "pages": 390,
+    "published": 2006,
+    "type": "sci-fi",
+    "synopsis": "First contact and aliens and math.",
+    "opinion": "You never get to hold onto any of the characters that much. Cool ideas and structure, but too impersonal and unsatisfying for me.",
+    "quotes": []
+  },
+  {
+    "id": 10,
+    "title": "The Curated Closet",
+    "author": "Anuschka Rees",
+    "finished": {
+      "year": 2018,
+      "month": 4
+    },
+    "rating": 4,
+    "pages": 274,
+    "published": 2016,
+    "type": "style",
+    "synopsis": "Strategies for building a style and a wardrobe for you and your life.",
+    "opinion": "Useful frameworks for organizing your clothes and shopping. Inherently consumerist.",
+    "tags": ["IMPROVE"],
+    "quotes": [
+      "Training yourself to become more selective is the single most effective thing you can do to upgrade your wardrobe. Try to think of your closet as an exclusive, members-only club. Only pieces that you love and are truly excited to wear get an invite.",
+      "If something is your style and you love it, I believe you should wear it, regardless of whether it supposedly 'flatters' your body or doesn't."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Speak, Memory",
+    "author": "Vladimir Nabokov",
+    "finished": {
+      "year": 2018,
+      "month": 4
+    },
+    "rating": 3,
+    "pages": 310,
+    "published": 1966,
+    "type": "memoir",
+    "synopsis": "Reflections on mid-early life in Russia and Europe (before he got to America). Lots of childhood stuff.",
+    "opinion": "Beautiful language but so annoyingly pompous.",
+    "tags": ["DESC", "HUMAN"],
+    "quotes": [
+      "A sense of security, of well-being, of warmth pervades my memory. That robust reality makes a ghost of the present. The mirror brims with brightness; a bumblebee has entered the room and bumps against the ceiling. Everything is as it should be, nothing will ever change, nobody will ever die."
+    ]
+  },
+  {
+    "id": 12,
+    "title": "The Man Who Mistook His Wife for a Hat",
+    "author": "Oliver Sacks",
+    "finished": {
+      "year": 2018,
+      "month": 5
+    },
+    "rating": 5,
+    "pages": 243,
+    "published": 1985,
+    "type": "non-fiction",
+    "synopsis": "Different rare brain problems and a very human look at them. The author is a doctor.",
+    "opinion": "Captivating and moving, a cool look at humanity and resilience. I'm sure the science is somewhat dated, but it resonates a lot.",
+    "tags": ["HUMAN", "CLEAN"],
+    "quotes": [
+      "We have, each of us, a life story, an inner narrative—whose continuity, whose sense, is our lives. It might be said that each of us constructs and lives, a 'narrative', and that this narrative <i>is</i> us, our identities."
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Black Vodka",
+    "author": "Deborah Levy",
+    "finished": {
+      "year": 2018,
+      "month": 6
+    },
+    "rating": 1,
+    "pages": 125,
+    "published": 2013,
+    "type": "stories",
+    "synopsis": "Short stories about adult life and romance",
+    "opinion": "Recommend \"Roma\" and \"Cavegirl\" and skip everything else. Forced descriptions and awkward transitions break the immersiveness.",
+    "quotes": [
+      "I muttered something about being summoned to an emergency and left quickly before Tom could point out that the emergency was me.",
+      "Silence is cruel in cities where missing people need to hide in noise."
+    ]
+  },
+  {
+    "id": 14,
+    "title": "The Color Purple",
+    "author": "Alice Walker",
+    "finished": {
+      "year": 2018,
+      "month": 6
+    },
+    "rating": 4,
+    "pages": 288,
+    "published": 1982,
+    "type": "novel",
+    "synopsis": "Novel about this woman",
+    "opinion": "OMG YES beautiful characters and development. Got lost in Nettie's part.",
+    "tags": ["FEM", "HUMAN", "DESC"],
+    "quotes": [
+      "People think pleasing God is all God care about. But any fool living in the world can see it always trying to please us back.",
+      "If she come, I be happy. If she don't, I be content. And then I figure this the lesson I was suppose to learn."
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "finished": {
+      "year": 2018,
+      "month": 7
+    },
+    "rating": 4,
+    "pages": 432,
+    "published": 1813,
+    "type": "novel",
+    "synopsis": "Love, society, and character",
+    "opinion": "Witty, sweet, and human. Not that much happens. Kind of outdated. Great breakup book.",
+    "tags": ["HUMAN", "SWEET"],
+    "quotes": [
+      "Jane was anxious that no difference should be perceived in her at all, and was really persuaded that she talked as much as ever. But her mind was so busily engaged, that she did not always know when she was silent.",
+      "The conduct of neither, if strictly examined, will be irreproachable; but since then, we have both, I hope, improved in civility."
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Let the Great World Spin",
+    "author": "Colum McCain",
+    "finished": {
+      "year": 2018,
+      "month": 8
+    },
+    "rating": 2,
+    "pages": 349,
+    "published": 2009,
+    "type": "novel",
+    "synopsis": "New York people and stuff",
+    "opinion": "Cool plot and intertwining of character stories, but the characters didn't have very convincing voices. The writing felt heavy, overdone, and kind of self-absorbed.",
+    "quotes": [
+      "The other judges told him he'd get used to it eventually, that he'd see the light and it'd still be in a tunnel.",
+      "I hated the city at times like that—it had no desire to get out from under its grayness."
+    ]
+  },
+  {
+    "id": 17,
+    "title": "The Big Love",
+    "author": "Sarah Dunn",
+    "finished": {
+      "year": 2018,
+      "month": 8
+    },
+    "rating": 3,
+    "pages": 228,
+    "published": 2004,
+    "type": "novel",
+    "tags": ["SWEET"],
+    "synopsis": "A working and living and getting over her breakup",
+    "opinion": "Well-written and witty. I feel a little self-conscious about liking this book so much because it's kind of trashy. But I found a lot of it really relatable. It's about moving on and growing up when you're grown up. The main character goes through a lot of development, facing her personality and flaws head on, but the side characters are underdeveloped.",
+    "quotes": []
+  },
+  {
+    "id": 18,
+    "title": "The Round House",
+    "author": "Louise Erdich",
+    "finished": {
+      "year": 2018,
+      "month": 9
+    },
+    "rating": 2,
+    "pages": 317,
+    "published": 2012,
+    "type": "novel",
+    "synopsis": "Mother gets raped, teenage boy kid tries to figure it out",
+    "opinion": "I didn't enjoy this book. It's full of suffering and it's centered on a teenage-boy view of the world…But also it's about resilience. And I respect the book's story and character development, interweaving themes, and strong emotions.",
+    "quotes": [
+      "Suzette and Josey were powerfully strong, so they could move with dignity under the weight of all this tradition, and not collapse.",
+      "When the warm rains fall in June, said my father, and the lilacs burst open. Then she will come downstairs. She loves the scent of the lilacs."
+    ]
+  },
+  {
+    "id": 19,
+    "title": "The Taoh of Pooh",
+    "author": "Benjamin Hoff",
+    "finished": {
+      "year": 2018,
+      "month": 9
+    },
+    "rating": 3,
+    "pages": 158,
+    "published": 2012,
+    "type": "non-fiction",
+    "synopsis": "About Daoism, Lao Zhuang",
+    "opinion": "Good and cute but so basic LOL. Author is kinda pedantic sometimes. It's a short and easy read, though.",
+    "quotes": [
+      "Wu Wei doesn't try. It doesn't think about it. It just does it. And when it does, it doesn't appear to do much if anything. But Things Get Done.",
+      "The surest way to become Tense, Awkward, and Confused is to develop a mind that tires too hard--one that thinks too much.",
+      "Using Wu Wei, you go by circumstances and listen to your own intuition. 'This isn't the best time to do this. I'd better go that way.' Like that."
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Into the Wild",
+    "author": "Jon Krakauer",
+    "finished": {
+      "year": 2018,
+      "month": 9
+    },
+    "rating": 3,
+    "pages": 203,
+    "published": 1996,
+    "type": "biography",
+    "synopsis": "Chris McCandless went to Alaska and died. Idealism, nature, masculinity.",
+    "opinion": "Well-constructed. I liked the authors insertions of his own life and memories. Interesting and moving. A little annoying how women were just presented as sex and temptation away from a greater ideal/goal. Follow your dreams!",
+    "quotes": [
+      "So many people live within unhappy circumstances and yet will not take the initiative to change their situation because they are conditioned to a life of security, conformity, and conservatism, all of which may appear to give one peace of mind, but in reality nothing is more damaging to the adventurous sprit within a man than a secure future.",
+      "'The joy of life comes from an encounter with new experiences, and hence there is no greater joy than to have an endlessly changing horizon, for each day to have a new and different sun.' -Chris McCandless in a letter"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Elantris",
+    "author": "Brandon Sanderson",
+    "finished": {
+      "year": 2018,
+      "month": 9
+    },
+    "rating": 4,
+    "pages": 203,
+    "published": 2005,
+    "type": "fantasy",
+    "synopsis": "Princess saves the world and magic stuff. The mystery of Elantris.",
+    "opinion": "Cool stuff about truth, religion, love, and hope. A fun, engaging read. Simple, nice writing.",
+    "quotes": [
+      "Remember, the past need not become our future as well."
+    ]
+  },
+  {
+    "id": 22,
+    "title": "East of Eden",
+    "author": "John Steinbeck",
+    "finished": {
+      "year": 2018,
+      "month": 11
+    },
+    "rating": 4,
+    "pages": 203,
+    "published": 2005,
+    "type": "fantasy",
+    "synopsis": "A story of good and evil. There are a lot of pairs of men whose names start with A and C hurt each other.",
+    "opinion": "Beautiful language and descriptions. More progressive than I expected. King of heavy handed morality, but a lot to think about, and such beautiful writing! Kind of epic.",
+    "quotes": [
+      "We have only one story. All novels, all poetry, are built on the never-ending contest in ourselves of good and evil. And it occurs to me that evil must constantly respawn, while good, while virtue, is immortal. Vice has always a new fresh young face, while virtue is venerable as nothing else in the world is."
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Watership Down",
+    "author": "Richard Adams",
+    "finished": {
+      "year": 2018,
+      "month": 12
+    },
+    "rating": 4,
+    "pages": 476,
+    "published": 1972,
+    "type": "novel",
+    "synopsis": "An adventure novel, like the Odyssey. But with rabbits.",
+    "opinion": "Clever, great plot structure and culmination of everything. So cool how the author thought about things from a rabbit perspective, physically and spiritually. Kinda classic. But also kinda unnecessarily sexist like what? Not very quotable but very beautiful writing.",
+    "quotes": [
+      "You know how you let yourself think that everything will be all right if you can only get to a certain place or do a certain thing. But when you get there you find ."
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Come As You Are",
+    "author": "Emily Nagoski",
+    "finished": {
+      "year": 2018,
+      "month": 12
+    },
+    "rating": 5,
+    "pages": "??",
+    "published": "??",
+    "type": "non-fiction",
+    "synopsis": "Sexuality",
+    "opinion": "SUPER AMAZING DEFINITELY READ",
+    "quotes": []
+  },
+  {
+    "id": 25,
+    "title": "Heir Apparent",
+    "author": "Vivian Vande Velde",
+    "finished": {
+      "year": 2018,
+      "month": 12
+    },
+    "rating": 3,
+    "pages": "??",
+    "published": "??",
+    "type": "non-fiction",
+    "synopsis": "Girl stuck in game",
+    "opinion": "Yeah sure why not",
+    "quotes": []
+  },
+  {
+    "id": 26,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "finished": {
+      "year": 2019,
+      "month": 1
+    },
+    "rating": 4,
+    "pages": "??",
+    "published": "??",
+    "type": "sci-fi",
+    "synopsis": "Yeah sand",
+    "opinion": "Cool and good",
+    "quotes": []
+  },
+  {
+    "id": 27,
+    "title": "The Year of Magical Thinking",
+    "author": "Joan Didion",
+    "finished": {
+      "year": 2019,
+      "month": 2
+    },
+    "rating": 4,
+    "pages": "??",
+    "published": "??",
+    "type": "memoir",
+    "synopsis": "Sadness death",
+    "opinion": "Cool and inspiring and sad",
+    "quotes": []
+  },
+  {
+    "id": 28,
+    "title": "The Shadow of the Wind",
+    "author": "Carlos Ruiz Zafón",
+    "finished": {
+      "year": 2019,
+      "month": 3
+    },
+    "rating": 3,
+    "pages": 569,
+    "published": 2009,
+    "type": "novel",
+    "synopsis": "Daniel finds a book and tries to find more about the mysterious author. The setting is post civil war Barcelona.",
+    "opinion": "The Barcelona stuff is really cool. The fetish stuff and general treatment of women by the author and the characters kinda sucks.",
+    "quotes": [
+      "No te pongas años de más, sabandijilla, que ya te los pondrá la vida.",
+      "Yo había crecido en el convencimiento de que aquella lenta procesión de la posguerra, un mundo de quietud, miseria y rencores velados, era tan natural como el agua del grifo, y que aquella tristeza muda que sangraba por las paredes de la ciudad herida era el verdadero rostro de su alma. Una de las trampas de la infancia es que no hace falta comprender algo para sentirlo. Para cuando la razón es capaz de entender lo sucedido, las heridas en el corazón ya son demasiado profundas.",
+      "Hay pocas razones para decir la verdad, pero para mentir el número es infinito.",
+      "Dios nos da la vida, pero el casero del mundo es el demonio..."
+    ]
+  },
+  {
+    "id": 29,
+    "title": "The Summer Book",
+    "author": "Tove Jansson",
+    "finished": {
+      "year": 2019,
+      "month": 4
+    },
+    "rating": 5,
+    "pages": "??",
+    "published": "??",
+    "type": "novel",
+    "synopsis": "Ocean ocean",
+    "opinion": "Pretty pretty",
+    "tags": ["DESC", "HUMAN"],
+    "quotes": []
+  }
+]

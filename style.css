@@ -1,0 +1,31 @@
+body {
+	background-color: rgba(196, 240, 255, 0.55);
+}
+
+.main {
+	color: rgba(75, 0, 130, 1);
+}
+
+.intro {
+	font-size: 40pt;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+.book {
+	margin-bottom: 20px;
+	font-size: 18pt;
+}
+
+/* colors signify rating */
+.pink { color: #BD33A4; }
+.purple { color: #720B98; }
+.blue { color: #2C52A5; }
+.mint { color: #009688; }
+.green { color: #4f8C1E; }
+
+.foot {
+	margin-bottom: 20px;
+	font-size: 18pt;
+	color: rgba(75, 0, 130, 1);
+}
