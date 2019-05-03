@@ -7,9 +7,16 @@ import os
 
 INDEX = 'index.html'
 BOOK_JSON = 'books.json'
+
 TWITTER = 'http://twitter.com/stayingpeachy_'
 TWITCH = 'http://twitch.com/stayingpeachy'
-GITHUB = 'https://github.com/stayingpeachy'
+INSTA = 'https://github.com/stayingpeachy_'
+
+TWITTER_ICON = 'image/twitter.png'
+TWITCH_ICON = 'image/twitch.png'
+INSTA_ICON = 'image/insta.png'
+
+ICON_ATTRIBUTE = '<!-- social media icons: https://www.iconfinder.com/prittenhouse -->'
 
 BOOTSTRAP_META = '''<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">'''
 BOOTSTRAP_CSS = '''<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">'''
@@ -17,7 +24,7 @@ BOOTSTRAP_JS = '''<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
 
 MY_CSS = '<link href="style.css" rel="stylesheet">'
 
-COLOR_MAP = {5: 'pink', 4: 'purple', 3: 'blue', 2: 'mint', 1: 'green'}
+COLOR_MAP = {5: 'color5', 4: 'color4', 3: 'color3', 2: 'color2', 1: 'color1'}
 RATING = '!@#$%'
 
 class Book:
@@ -32,11 +39,19 @@ class Book:
 		self.books.append(self)
 	
 	def __str__(self):
-		
-		return '{} by {} - {}'.format(self.title, self.author, RATING[:self.rating])
+		return '{} {} by {}'.format(self.rating * '★', self.title, self.author)
 		
 	def get_color(self):
 		return COLOR_MAP[self.rating]
+	
+	def get_row(self):
+		doc, tag, text = Doc().tagtext()
+		with tag('div', klass='row book {}'.format(self.get_color())):
+			with tag('div', klass='col-9', align='right'):
+				text('{} by {}'.format(self.title, self.author))
+			with tag('div', klass='col'):
+				text(self.rating * '★')
+		return doc.getvalue()
 	
 
 def load_data():
@@ -46,6 +61,19 @@ def load_data():
 		for d in book_json:
 			Book(d)
 
+def get_social():
+	doc, tag, text = Doc().tagtext()
+	with tag('div', klass='row social foot'):
+		with tag('div', klass='col'):
+			doc.asis(ICON_ATTRIBUTE)
+			with tag('a', href=TWITTER, target='_blank'):
+				doc.stag('img', src=TWITTER_ICON)
+			with tag('a', href=TWITCH, target='_blank'):
+				doc.stag('img', src=TWITCH_ICON)
+			with tag('a', href=INSTA, target='_blank'):
+				doc.stag('img', src=INSTA_ICON)
+	return doc.getvalue()
+			
 
 def build_html():
 	doc, tag, text = Doc().tagtext()
@@ -60,19 +88,11 @@ def build_html():
 		with tag('body'):
 			with tag('div', klass='container main'):
 				with tag('div', klass='row intro'):
-					text('books redrover read')
+					with tag('div', klass='col'):
+						text('redrover read')
+				doc.asis(get_social())
 				for book in Book.books:
-					with tag('div', klass='row book {}'.format(book.get_color())):
-						text(str(book))
-				with tag('div', klass='row foot'):
-					with tag('a', href=TWITTER, target='_blank'):
-						text('twitter')
-					text('/')
-					with tag('a', href=TWITCH, target='_blank'):
-						text('twitch')
-					text('/')
-					with tag('a', href=GITHUB, target='_blank'):
-						text('github')
+					doc.asis(book.get_row())
 			doc.asis(BOOTSTRAP_JS)
 	return doc.getvalue()
 

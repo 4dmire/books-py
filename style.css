@@ -3,13 +3,12 @@ body {
 }
 
 .main {
-	color: rgba(75, 0, 130, 1);
+	color: #11118B;
 }
 
 .intro {
 	font-size: 40pt;
 	margin-top: 20px;
-	margin-bottom: 40px;
 }
 
 .book {
@@ -18,14 +17,16 @@ body {
 }
 
 /* colors signify rating */
-.pink { color: #BD33A4; }
-.purple { color: #720B98; }
-.blue { color: #2C52A5; }
-.mint { color: #009688; }
-.green { color: #4f8C1E; }
+.color5 { color: #BD33A4; }
+.color4 { color: #720B98; }
+.color3 { color: #525abd; }
+.color2 { color: #525abd; }
+.color1 { color: #525abd; }
 
-.foot {
-	margin-bottom: 20px;
-	font-size: 18pt;
-	color: rgba(75, 0, 130, 1);
+.social img {
+	max-height: 48px;
+}
+
+.social {
+	margin-bottom: 50px;
 }
