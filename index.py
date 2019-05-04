@@ -10,7 +10,7 @@ BOOK_JSON = 'books.json'
 
 TWITTER = 'http://twitter.com/stayingpeachy_'
 TWITCH = 'http://twitch.com/stayingpeachy'
-INSTA = 'https://github.com/stayingpeachy_'
+INSTA = 'https://instagram.com/stayingpeachy_'
 
 TWITTER_ICON = 'image/twitter.png'
 TWITCH_ICON = 'image/twitch.png'
