@@ -84,12 +84,12 @@ def build_html():
 			doc.asis(BOOTSTRAP_CSS)
 			doc.asis(MY_CSS)
 			with tag('title'):
-				text('redrover books')
+				text('book ratings')
 		with tag('body'):
 			with tag('div', klass='container main'):
 				with tag('div', klass='row intro'):
 					with tag('div', klass='col'):
-						text('redrover read')
+						text('book ratings')
 				doc.asis(get_social())
 				for book in Book.books:
 					doc.asis(book.get_row())

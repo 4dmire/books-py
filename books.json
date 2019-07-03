@@ -532,5 +532,26 @@
     "opinion": "Pretty pretty",
     "tags": ["DESC", "HUMAN"],
     "quotes": []
+  },
+  {
+    "id": 30,
+    "title": "Zen Mind, Beginner's Mind",
+    "author": "Shunryu Suzuki",
+    "finished": {
+      "year": 2019,
+      "month": 5
+    },
+    "rating": 5,
+    "pages": 138,
+    "published": 1970,
+    "type": "zen",
+    "synopsis": "In order to keep learning things, you have to have a flexible mind, like the beginner's mind.",
+    "opinion": "This book is awesome. It's so easy to follow and occasionally even witty. And it's extremely practical.",
+    "quotes": [
+      "[W]hen my talk is over, your listening is over. There is no need to remember what I say; there is no need to understand what I say. You understand; you have full understanding within yourself. There is no problem.",
+      "When we do something with a quite simple, clear mind, we have no notion or shadows, and our activity is strong and straightforward.",
+      "As long as we have some definite idea about or some hope in the future, we cannot really be serious with the moment that exists right now. You may say, 'I can do it tomorrow, or next year,' believing that something that exists today will exist tomorrow. Even though you are not trying to hard, you expect that some promising thing will come, as long as you follow a certain way. But there is no certain way that exists permanently. There is no way set up for us. Moment after moment we have to find our own way. Some idea of perfection, or some perfect way which is set up by someone else, is not the true way for us.",
+      "To learn something is not to acquire something which you did not know before. You know something before you learn it. There is no gap between the 'I' before you know something and the 'I' after you know something. There is no gap between the ignorant and the wise."
+    ]
   }
 ]
